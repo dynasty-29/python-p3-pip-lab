@@ -1,0 +1,8 @@
+[packages]
+requests = "==2.27.1"
+pytest = "*"
+
+[dev-packages]
+
+[requires]
+python_full_version = "3.12"
